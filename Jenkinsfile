@@ -15,4 +15,4 @@ pipeline {
 		    steps {
 			sh 'cp target/slave.war /home/rahul/Files/apache-tomcat-9.0.85/webapps'
 			}}	
-}
+}}
